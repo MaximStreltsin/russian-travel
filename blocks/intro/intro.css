@@ -2,8 +2,7 @@
   color: #fff;
   margin: 0;
   box-sizing: border-box;
-  border: tomato solid 1px;
-}
+ }
 
 @media screen and (min-width: 320px) {
   .intro {
