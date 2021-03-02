@@ -2,7 +2,7 @@
   list-style-type: none;
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
   .footer__lin {
     padding-bottom: 32px;
   }
@@ -11,8 +11,8 @@
   }
 }
 
-@media screen and (min-width: 768px) {
-  .footer__links {
+@media screen and (max-width: 768px) {
+  .footer__lin {
     padding: 0px 0px 24px 0px;
   }
 }

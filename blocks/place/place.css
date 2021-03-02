@@ -3,6 +3,7 @@
     margin: 0;
     display: grid;
     grid-template-columns: repeat(1, minmax(content));
+   
   }
   
   @media screen and (min-width: 320px) {
