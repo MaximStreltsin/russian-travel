@@ -10,19 +10,19 @@
 }
 @media screen and (min-width: 768px) {
   .intro__list {
-    min-width: 720px;
+    max-width: 720px;
     padding: 0 24px 88px 24px;
   }
 }
 @media screen and (min-width: 1024px) {
   .intro__list {
-    min-width: 690px;
+    max-width: 690px;
     padding: 0 286px 92px 48px;
   }
 }
 @media screen and (min-width: 1280px) {
   .intro__list {
-    min-width: 690px;
+    max-width: 690px;
     padding: 0 442px 92px 148px;
   }
 }
