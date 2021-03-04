@@ -28,18 +28,12 @@
 
 @media screen and (min-width: 1024px) {
   .lead__subtitle {
-    max-width: 640px;
-    font-size: 30px;
-    line-height: 36px;
     padding: 0 192px 56px 192px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .lead__subtitle {
-    max-width: 640px;
-    font-size: 30px;
-    line-height: 36px;
     padding: 0 320px 64px 320px;
   }
 }
