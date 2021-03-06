@@ -6,7 +6,7 @@
   .footer__lin:last-child {
     padding-bottom: 0;
   }
-}
+
 
 @media screen and (min-width: 768px) {
   .footer__lin {
