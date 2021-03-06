@@ -1,4 +1,4 @@
-header__links {
+.header__lang {
   list-style-type: none;
   display: flex;
   padding-top: 14px;
@@ -8,7 +8,7 @@ header__links {
 }
 
 @media screen and (min-width: 768px) {
-  .header__links {   
+  .header__lang {   
   padding-top: 18px;
   }
 }

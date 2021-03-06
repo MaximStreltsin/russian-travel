@@ -1,8 +1,5 @@
-.lead__image {
-    object-fit: cover;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center center;    
+.lead__image {    
+    max-width: 100%;
 }
 
 

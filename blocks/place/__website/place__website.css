@@ -6,11 +6,8 @@
   min-width: 288px;
 }
 
-
-
-
 @media screen and (min-width: 768px) {
-  .place__website { 
+  .place__website {
     padding: 0;
     align-self: end;
     max-width: 352px;
@@ -18,13 +15,13 @@
 }
 
 @media screen and (min-width: 1024px) {
-  .place__website { 
+  .place__website {
     padding: 0 48px 0 0px;
   }
 }
 
 @media screen and (min-width: 1280px) {
-  .place__website { 
+  .place__website {
     padding: 0 176px 0px 0px;
   }
 }
