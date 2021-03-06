@@ -1,17 +1,14 @@
 .footer__lin {
   list-style-type: none;
+  padding-bottom: 32px;
 }
 
-@media screen and (max-width: 320px) {
-  .footer__lin {
-    padding-bottom: 32px;
-  }
   .footer__lin:last-child {
     padding-bottom: 0;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
   .footer__lin {
     padding: 0px 0px 24px 0px;
   }
