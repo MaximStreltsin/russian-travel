@@ -6,12 +6,12 @@
   color: #ffffff;
   line-height: 16px;
 }
-
   @media screen and (max-width: 768px) {
     .footer__copyright {
       line-height: 14px;
       padding: 0 48px 24px 0px;
     }
+  }
 
     @media screen and (max-width: 1024px) {
       .footer__copyright {
